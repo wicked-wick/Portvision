@@ -1,8 +1,8 @@
 # Portvision
 Super fast Portscanner
 This tool is created keeping CTFs as the main focus.
-We can just specify the ip address or the domain and it will find all the open ports under 1000.
-WE are interested in top 1000 ports because they are the main focus in almost every hacking challenge.
+The tool just needs a IP address or a domain name and it will find all the open ports under 1000.
+We are interested in top 1000 ports because they are of utmost importance.
 
 Installation:
 
